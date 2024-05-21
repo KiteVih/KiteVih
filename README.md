@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EvyD4Hju)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_little_victor?igsh=bTE4ank2M3R2MGxi)
 
-![Victor Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=KiteVih&show_icons=true&theme=dracula)
+![Victor Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramos&show_icons=true&theme=dracula)
 
 ### Tecnologias Usadas
 
