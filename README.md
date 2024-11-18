@@ -15,4 +15,4 @@
 
 </div><br>
 
-Estudante de Programação, buscando aprender novas tecnologias e experiências
+Estudante de Programação, buscando aprender novas tecnologias e ter novas experiências.
